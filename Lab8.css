@@ -1,0 +1,62 @@
+h1{
+	text-align:center;
+	text-decoration:underline;
+	font-family:cursive;
+	font-style:italic;
+	letter-spacing: 2.5px;
+	font-size: 36px;
+	margin:0 0 20px 0;
+	background-color:tomato;
+}
+
+body{
+	background-color:darkgrey;
+}
+
+
+div{
+	background-color:aliceblue;
+	font-size: 28px;
+}
+
+#container{
+
+	width:20%;
+	height:100%;
+	margin:auto;
+	border:2px dotted tomato;
+	padding:1%;
+}
+
+ol{
+
+	/*text-align:center;*/
+	list-style-position: inside;
+}
+
+p{
+	text-align: center;
+}
+
+form{
+	width:35%;
+	margin-top:20px;
+	padding:10px;
+	letter-spacing: .5px;
+	line-height:15px;
+}
+
+footer{
+	width:25%;
+	margin:auto;
+	line-height:20px;
+	background-color:aliceblue;
+	border:2px dotted tomato;
+	padding:5px;
+
+}
+
+span{
+	margin:20px;
+}
+
